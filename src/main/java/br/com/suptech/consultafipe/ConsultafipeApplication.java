@@ -17,7 +17,7 @@ public class ConsultafipeApplication implements CommandLineRunner {
     public void run(String... args) throws Exception {
         Principal p = new Principal();
 
-        p.getMenu();
+        p.getMenuInicial();
 
     }
 
